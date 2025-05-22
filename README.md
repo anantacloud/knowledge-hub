@@ -1,4 +1,4 @@
-![Contributor Covenant v2.1](https://img.shields.io/badge/Contributor%20Covenant-v2.1-4baaaa.svg)
+![Contributor Covenant v2.1](https://img.shields.io/badge/Contributor%20Covenant-v2.1-d93f3a.svg)
 
 # Ananta Cloud Knowledge Base
 
