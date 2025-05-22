@@ -1,7 +1,3 @@
-Here's a **customized and concise version** of your Contributor Covenant Code of Conduct README for **Ananta Cloud**, while keeping the intent and structure intact but modernizing the language slightly for clarity and professionalism:
-
----
-
 # 🤝 Ananta Cloud Community Code of Conduct
 
 ## Our Commitment
