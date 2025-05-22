@@ -1,3 +1,5 @@
+![Contributor Covenant v2.1](https://img.shields.io/badge/Contributor%20Covenant-v2.1-4baaaa.svg)
+
 # Ananta Cloud Knowledge Base
 
 👋 Welcome to the Ananta Cloud Knowledge Base! 👋
@@ -12,4 +14,4 @@ This space is dedicated to helping you get the most out of Ananta Cloud. Whether
 
 Before participating, please take a moment to review our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a safe and inclusive space for all members.
 
-Let’s collaborate and grow together with Ananta Cloud! 🌱
+Let’s collaborate and grow together with **Ananta Cloud!** 🌱
