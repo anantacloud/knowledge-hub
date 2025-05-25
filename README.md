@@ -1,8 +1,8 @@
 ![Contributor Covenant v2.1](https://img.shields.io/badge/Contributor%20Covenant-v2.1-d93f3a.svg)
 
-# Ananta Cloud Knowledge Base
+# Ananta Cloud Knowledge Hub
 
-👋 Welcome to the Ananta Cloud Knowledge Base! 👋
+👋 Welcome to the Ananta Cloud Knowledge Hub! 👋
 
 This space is dedicated to helping you get the most out of Ananta Cloud. Whether you're troubleshooting, looking for best practices, or exploring new features, you’re in the right place! Our community-driven discussions on GitHub Discussions offer a platform for:
 
